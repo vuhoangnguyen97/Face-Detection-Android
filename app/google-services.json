@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "602893905860",
+    "firebase_url": "https://fir-651f9.firebaseio.com",
+    "project_id": "fir-651f9",
+    "storage_bucket": "fir-651f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602893905860:android:bce3b0beeadb80c9",
+        "android_client_info": {
+          "package_name": "com.nguyen.facedetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602893905860-6fh16dhn20cbr4ths1mui4b6e18ki2n3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1E6dveKbcpO061Saem0ZnhTwabogJm4w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602893905860:android:4c7967ff79555783",
+        "android_client_info": {
+          "package_name": "com.nguyen.tutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602893905860-6fh16dhn20cbr4ths1mui4b6e18ki2n3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1E6dveKbcpO061Saem0ZnhTwabogJm4w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
